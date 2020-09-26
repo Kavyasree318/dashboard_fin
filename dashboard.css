@@ -1,0 +1,18 @@
+.year {
+  text-align: center;
+  padding-top: 30px;
+}
+td {
+  border: 2px solid lightgray;
+  padding: 20px 40px;
+}
+
+.sample {
+  background-color: rgb(142, 238, 142); 
+}
+.sample1{
+    background-color: tomato;
+}
+.sample2{
+    background-color: rgb(166, 105, 223);
+}

@@ -1,0 +1,7 @@
+.singlerow{
+    display: flex;
+    justify-content: center;
+}
+#from, #to{
+    margin-right: 10px;
+}
